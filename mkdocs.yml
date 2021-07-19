@@ -1,0 +1,19 @@
+site_name: Actividades
+dev_addr: 127.0.0.1:8001
+# site_url: 
+# repo_url: 
+# repo_name: <i class="fa fa-git"></i>
+
+theme:
+    name: mkdocs
+    custom_dir: resources/
+extra_css:
+    - css/page.css
+nav:
+    - Individuales:
+        - Actividad 1: todo.md
+        - Actividad 2: todo.md
+    - Colaborativas:
+        - Actividad 1: todo.md
+copyright: ©GMDXX
+site_author: GMDXX
