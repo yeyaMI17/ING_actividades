@@ -2,7 +2,8 @@
 ## **Tema: ¿Qué es un Diagrama de Gantt?**  
 
 ***El Diagrama de Gantt surgió como medio para informar acerca de las fechas de inicio y fin de las distintas tareas de un proyecto.  ***    
-<img src="/archivos/index/g1.jpg" alt="drawing" width="200" style="width: 50%;"/>
+
+![Mi Imágen](/archivos/individual/act3/orden.jpeg) 
 
 Un diagrama de Gantt es una herramienta útil para planificar proyectos.   
 Al proporcionarte una vista general de las tareas programadas, todas las partes implicadas sabrán qué tareas tienen que completarse y en qué fecha.
@@ -44,7 +45,7 @@ Aquí se apreciaran algunas de las ventajas al implementar este diagrama.
 3. **Gestión del tiempo** 
     + Los diagramas de Gantt te ayudan a establecer unos plazos de tiempo realistas. Las barras del diagrama indican en qué periodo tiene que completarse una tarea determinada. De esta manera, te asegurarás de no perjudicar a otros proyectos que necesitan más recursos y tiempo.  
 
-<img src="/archivos/index/g2.png" alt="drawing" width="150" style="width: 50%;"/>
+![Mi Imágen](/archivos/individual/act3/compu.jpeg) 
 
 ## **¿ QUIÉN LO OCUPA?**   
 Se esta ocupando para  contratistas, patrocinadores de empresas constructoras, ingenieros, propietarios de viviendas y organismos gubernamentales que quieren negociar las tareas. 
@@ -58,7 +59,8 @@ Se esta ocupando para  contratistas, patrocinadores de empresas constructoras, i
 5. Microsoft project
 
 ## **PROJECT LIBRE** 
-<img src="/archivos/index/project.png" alt="drawing" width="200" style="width: 100%;"/>
+
+[Mi ejemplo](http://127.0.0.1:8001/individual/ejemplo3/ "Diagrama de Gannt")
 
 ## **REFERENCIAS** 
 *Pérez, A. (2021, 24 marzo). Diagrama de Gantt: origen, precauciones, usos y aplicaciones. OBS.* (https://www.obsbusiness.school/blog/diagrama-de-gantt-origen-precauciones-usos-y-aplicaciones)  
