@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Maria Itzel Chávez Herrera
+- **Correo**: maritzel2401@gmail.com
