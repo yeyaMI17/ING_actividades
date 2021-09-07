@@ -13,8 +13,10 @@ nav:
     - Individuales:
         - Actividad 1: todo.md
         - Actividad 2: todo.md
-        - Actividdad 3: individual/actividad3.md
+        - Actividad 3: individual/actividad3.md
     - Colaborativas:
         - Actividad 1: todo.md
+    - Ejemplos:
+        - Actividad 3: individual/ejemplo3.md    
 copyright: ©GMDXX
 site_author: GMDXX
