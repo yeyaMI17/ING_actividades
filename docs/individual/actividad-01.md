@@ -1,7 +1,7 @@
 # **Unidad 1: Introducción a la Ingeniería de Software**  
 ## **Tema: Metodologías ágiles**  
 
-<img src="/archivos/index/act1/portada.jpg" alt="drawing" width="200" style="width: 50%;"/>
+![Mi Imágen](/archivos/individual/act1/portada.jpeg) 
 
 Las **metodologías ágiles** son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto y su desarrollo a las circunstancias específicas del entorno.
 
@@ -24,7 +24,7 @@ En este documento, los programadores propusieron un nuevo enfoque de desarrollo 
 
 El manifiesto no busca imponer un conjunto de prácticas, sino ser una guía que permita pensar en el desarrollo de software de otra manera, gracias a este manifiesto, se han obtenido varios resultados prácticos. 
 
-<img src="/archivos/index/act1/desarrollo.jpg" alt="drawing" width="200" style="width: 50%;"/>
+![Mi Imágen](/archivos/individual/act1/manifiesto.jpeg) 
 
 ## **CARACTERÍSTICAS**  
 Las principales características de las metodologías ágiles son las siguientes:  
@@ -37,18 +37,22 @@ Las principales características de las metodologías ágiles son las siguientes
 * La gente de negocios y desarrolladores trabajan siempre juntos. 
 * Sus acciones son ajustables y simples. 
 
-## **TIPOS**
-<img src="/archivos/index/act1/tipos.png.opdownload" alt="drawing" width="200" style="width: 50% ;"/>  
+## **TIPOS**  
+
+![Mi Imágen](/archivos/individual/act1/tipos.jpg) 
+
 Uno de los principales focos de aplicación de las metodologías ágiles son los proyectos tecnológicos.  
 Cada una de ellas tiene sus fortalezas y sus debilidades, pero no son excluyentes. En cada proyecto  podemos adoptar una, o varias, en función de las características del propio proyecto y del equipo.
 
 A continuación, se mencionarán algunos tipos:  
+
 ### **METODOLOGÍA SCRUM**  
 Consiste en trabajar por iteraciones o también llamados ‘sprints’, que suelen durar normalmente una semana. Durante este periodo, se ejecutan las actividades necesarias según el requerimiento planteado para esa semana. Cada día se van teniendo reuniones donde comprobar lo que se va haciendo y resolver los problemas dados.  
 Su similitud con el rugby es la revisión y mejora de la fase anterior en cada iteración. Desde atrás, vamos avanzando hacia delante. Al final se trata de ir ajustando los resultados y respondiendo a las exigencias reales y exactas del cliente.  
 
 #### **EJEMPLO**
-<img src="/archivos/index/act1/scrum.png" alt="drawing" width="200" style="width: 50% ;"/> 
+
+![Mi Imágen](/archivos/individual/act1/scrum.jpeg) 
 
 **Equipo SCRUM**
 En los equipos Scrum, se cuenta con roles específicos, que son imprescindibles para completar el proceso de forma satisfactoria:  
@@ -65,7 +69,7 @@ En los equipos Scrum, se cuenta con roles específicos, que son imprescindibles 
 La metodología Scrumban unifica la gestión ágil de Scrum online con la facilidad de comprensión de los flujos de trabajo de Kanban.
 
 Así pues, Scrumban nos permite planificar los proyectos según los vamos ejecutando. Marcamos unos hitos o momentos clave, al final de los denominados sprints y cuando llegamos a esa fecha inamovible, revisamos el trabajo hecho y planificamos el siguiente sprint o la denominada también iteración, según los nuevos requerimientos o cambios producidos.  
-<img src="/archivos/index/act1/scrumban.jpg" alt="drawing" width="200" style="width: 50% ;"/> 
+![Mi Imágen](/archivos/individual/act1/scrumban.jpeg) 
 
 El hecho de que se denomine Scrumban, es que lo integramos con un tablero Kanban, formado por varias columnas, las cuales suelen ser: Hecho, Tarde, En proceso, Por hacer.  
 Cada columna está formada por actividades que todo el equipo comparte, o filtradas por deferentes categorías según la herramienta que se utilice. De esta manera, todo el equipo va viendo qué tiene que hacer, para cuándo y su nivel de urgencia.
@@ -73,7 +77,7 @@ Cada columna está formada por actividades que todo el equipo comparte, o filtra
 #### **EJEMPLO**  
 Planificación de un proyecto en una empresa.  
 
-<img src="/archivos/index/act1/scrumban.png" alt="drawing" width="200" style="width: 50% ;"/>   
+![Mi Imágen](/archivos/individual/act1/ej_scrumban.jpeg) 
 
 ### **Extreme Programming (XP)**
 
@@ -83,7 +87,7 @@ De esta manera, se consigue alcanzar el éxito durante el desarrollo del softwar
 #### **EJEMPLO**  
 Es muy común ver que el equipo se organice basado en el marco de trabajo Scrum, siguiendo las reglas y valores que promueve este marco de trabajo y que a su vez apliquen prácticas de Ingeniería de Software que promueve XP en su proceso de desarrollo, como programación en parejas, integración continua, el uso de historias de usuario, etc.  
 
-<img src="/archivos/index/act1/xp.jpg" alt="drawing" width="200" style="width: 50% ;"/>  
+![Mi Imágen](/archivos/individual/act1/xp.jpeg) 
 
 Las principales fases del Extreme Programming XP son:  
 
@@ -101,12 +105,14 @@ Es una metodología muy útil para simplificar la planificación y la asignació
 Es fundamental que dicho cuadro esté al alcance de todos los miembros, pues, de esta manera, se evita la repetición de tareas. Por lo tanto, ayuda a incrementar la productividad y mejorar la eficiencia del equipo de trabajo.  
 #### **EJEMPLO**  
 Abres un proceso de selección para cubrir una vacante y comienzas a recibir cientos de postulaciones. Lo tomas como un buen augurio, pues a más candidatos, más posibilidades de encontrar al mejor talento.  
-<img src="/archivos/index/act1/kanban.JPG" alt="drawing" width="200" style="width: 50% ;"/> 
+
+![Mi Imágen](/archivos/individual/act1/kanban.jpeg) 
 
 
 ## **VENTAJAS - DESVENTAJAS**  
-<img src="/archivos/index/act1/ventajas.jpg" alt="drawing" width="200" style="width: 50% ;"/>  
-
+ 
+![Mi Imágen](/archivos/individual/act1/ventajas.jpeg)  
+ 
 |VENTAJAS|DESVENTAJAS|
 |--------|--------|
 | Emplear soluciones durante el proceso de trabajo, sin la necesidad de tener que esperar hasta el final. | Se depende en gran medida del líder del equipo, del cual llega a ser indispensable su trabajo y presencia.     |

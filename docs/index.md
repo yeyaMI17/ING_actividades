@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: Maria Itzel Chávez Herrera
+- **Nombre**: María Itzel Chávez Herrera
 - **Correo**: maritzel2401@gmail.com
