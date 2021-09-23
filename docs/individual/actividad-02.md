@@ -188,13 +188,15 @@ Esto implica que se debe abrir un nuevo proceso de selección para llenar la vac
 **Con un equipo de desarrollo dedicado este gran problema desaparece.**  
 
 **5. Incremento de la productividad y la calidad de los productos**  
-Dos factores:  
+Dos factores: 
+
 * Competencias.  
 * Enfoque.  
 Al contratar un equipo dedicado, las empresas no deben invertir en capacitaciones; el proveedor se encarga de sumar a los talentos necesarios para asumir el desafío que demande el proyecto a desarrollar.   
 Se eliminan las distracciones y se consolida la pericia necesaria para desarrollar las tareas.  
 
-**6. Optimización de los tiempos de entrega** 
+**6. Optimización de los tiempos de entrega**  
+ 
 Esta es la propuesta de valor más importante de los equipos dedicados: alineados a los cambios radicales de la tecnología y la necesidad de innovar, los equipos dedicados cuentan con las competencias y las herramientas necesarias para desarrollar productos eficientes en un plazo de tiempo competitivo.  
 Los proveedores cuentan con el talento y los mecanismos para enfrentarse a proyectos de urgencia. La disrupción es parte de su ADN.  
 
