@@ -35,7 +35,8 @@ Muchos equipos de desarrollo inusualmente queman sus gráficos que muestran cuá
 
 **3. Mantenga la calidad alta**  
 
-Un equipo de desarrollo confiable, debe evitar el ajetreo y el procesamiento de todo al mismo tiempo, ya que puede afectar fácilmente la calidad. Tomamos todo paso a paso, independientemente de la fecha límite. Si no se evita el ajetreo, la atención se centrará en el riesgo y en aumentar las deudas técnicas de la empresa. Es crucial analizar a fondo la calidad desde el inicio de los proyectos, antes de planificar algo al respecto.  
+Un equipo de desarrollo confiable, debe evitar el ajetreo y el procesamiento de todo al mismo tiempo, ya que puede afectar fácilmente la calidad. Tomamos todo paso a paso, independientemente de la fecha límite. Si no se evita el ajetreo, la atención se centrará en el riesgo y en aumentar las deudas técnicas de la empresa.   
+Es crucial analizar a fondo la calidad desde el inicio de los proyectos, antes de planificar algo al respecto.  
 Guiamos a nuestro equipo de desarrollo de software sobre diferentes principios ágiles que ayudan a entregar software de alta calidad en esta competitiva industria de tecnología. Nos enfocamos rápidamente en la velocidad, pero para mantener nuestra calidad, ayudando a compartir la carga, entendiendo los requisitos y aumentando la comunicación.   
 Además, el equipo debe establecer el enfoque de las pruebas continuas a través del cual podemos detectar los riesgos en la calidad del software en las primeras etapas. Es necesario identificar las fallas temprano para que no pueda afectar nuestra relación de desarrollo.
 
@@ -95,22 +96,25 @@ Muchas aplicaciones ejecutan completamente en un único servidor. Muchos otros s
 
 **5.El Desarrollador de Software**  
 
-El desarrollo efectivo de una aplicacion es hecha por los desarrolladores del equipo. Pero un desarrollador tiene más responsabilidades que solo escribir código. Él es a menudo responsable de hacer el seguimiento de su propio progreso, e informar al jefe de proyecto de los problemas a los que se enfrenta. Él es también quien implementa las ideas del arquitecto, y como tal, puede tener que discutir las (in)posibilidades de la implementación con el arquitecto.  
+El desarrollo efectivo de una aplicacion es hecha por los desarrolladores del equipo. Pero un desarrollador tiene más responsabilidades que solo escribir código. Él es a menudo responsable de hacer el seguimiento de su propio progreso, e informar al jefe de proyecto de los problemas a los que se enfrenta.
 
 
 **6.El Jefe de Desarrolladores**   
 
-Un desarrollador líder debe entrenar a los otros desarrolladores, y ayudarles a resolver los problemas que puedan enfrentar. Este desarrollador, que suele ser el miembro del equipo más experimentado, también será capaz de asegurarse de que la ejecución sigue de cerca al diseño planteado, y no se dé lugar a lo que se denomina “invasión de características” durante el desarrollo. El desarrollador líder tiene una gran influencia en la calidad del código.
+Un desarrollador líder debe entrenar a los otros desarrolladores, y ayudarles a resolver los problemas que puedan enfrentar.   
+Este desarrollador, que suele ser el miembro del equipo más experimentado, también será capaz de asegurarse de que la ejecución sigue de cerca al diseño planteado, y no se dé lugar a lo que se denomina “invasión de características” durante el desarrollo. El desarrollador líder tiene una gran influencia en la calidad del código.
 
 **7.El Diseñador Gráfico**  
 
-Es importante reconocer el papel del diseñador en un proyecto. Es bueno tener alguien encargado de la disposición general de una aplicación. Esto puede ir desde el diseño completo de la interfaz de usuario, hasta el definir sólo algunas directrices de interfaz de usuario que los desarrolladores deban cumplir.  
+Es importante reconocer el papel del diseñador en un proyecto. Es bueno tener alguien encargado de la disposición general de una aplicación.  
+Esto puede ir desde el diseño completo de la interfaz de usuario, hasta el definir sólo algunas directrices de interfaz de usuario que los desarrolladores deban cumplir.  
 Incluso si el diseño está determinado por los desarrolladores, es una responsabilidad importante crear un diseño consistente en toda la aplicación.  
 
 **8.El Tester**  
 
 Las pruebas son una parte importante para asegurar que el software funciona de la manera que debería.  
-El papel de ‘tester’ se realiza a menudo por los desarrolladores para los aspectos técnicos y los usuarios para los aspectos funcionales. Un problema que surge de hacer a los desarrolladores probar su propio código es que, no importa lo bueno que sean, se ven influidos por la forma de su código fue creado. Cuando se prueba, se tendrá en cuenta esas mismas situaciones que que ya se tuvieron en cuenta a la hora de escribirlo.  
+El papel de ‘tester’ se realiza a menudo por los desarrolladores para los aspectos técnicos y los usuarios para los aspectos funcionales.  
+Un problema que surge de hacer a los desarrolladores probar su propio código es que, no importa lo bueno que sean, se ven influidos por la forma de su código fue creado. Cuando se prueba, se tendrá en cuenta esas mismas situaciones que que ya se tuvieron en cuenta a la hora de escribirlo.  
 
 **9.El Gerente del Proyecto**  
 

@@ -100,7 +100,8 @@ Las principales fases del Extreme Programming XP son:
 ### **KANBAN**   
 Kanban proviene de una palabra japonesa cuyo significado es ***“Tarjeta Visual”***. Se utiliza para controlar el avance de trabajo del equipo en una línea de producción. En ella se clasifican las tareas en subtareas con el fin de determinar los niveles de productividad en cada fase del proyecto.  
 
-Es una metodología muy útil para simplificar la planificación y la asignación de responsabilidades. Consiste en crear un tablero donde se representan los procesos del flujo de trabajo. Este tablero debe estar dividido como mínimo en tres columnas: pendiente, en proceso y terminado. Normalmente, se utilizan post-its, que se irán desplazando a medida que las tareas se vayan completando.  
+Es una metodología muy útil para simplificar la planificación y la asignación de responsabilidades. Consiste en crear un tablero donde se representan los procesos del flujo de trabajo.   
+Este tablero debe estar dividido como mínimo en tres columnas: pendiente, en proceso y terminado. Normalmente, se utilizan post-its, que se irán desplazando a medida que las tareas se vayan completando.  
 
 Es fundamental que dicho cuadro esté al alcance de todos los miembros, pues, de esta manera, se evita la repetición de tareas. Por lo tanto, ayuda a incrementar la productividad y mejorar la eficiencia del equipo de trabajo.  
 #### **EJEMPLO**  
