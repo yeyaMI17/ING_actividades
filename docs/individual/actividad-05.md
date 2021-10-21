@@ -32,7 +32,12 @@ El uso de JSON está creciendo rápidamente en toda la industria, debido a que e
 |VENTAJAS|DESVENTAJAS|
 |--------|--------|
 | Es autodescriptivo y fácil de entender.|Algunos desarrolladores encuentran su escueta notación algo confusa.|
-|Su sencillez le ha permitido posicionarse como alternativa a XML.| 
+|Su sencillez le ha permitido posicionarse como alternativa a XML.| No cuenta con una característica que posee XML: extensibilidad.|
+| Es más rápido en cualquier navegador.| No soporta grandes cargas, solo datos comunes.|
+|Es más fácil de leer que XML.|Para la seguridad requiere de mecanismos externos como expresiones regulares.|
+|Es más ligero (bytes) en las transmisiones.| 
+|Velocidad de procesamiento alta.|
+|Puede ser entendido de forma nativa por los analizadores de JavaScript.|
 
 
 ### **EJEMPLOS JSON**    
@@ -51,6 +56,7 @@ El uso de JSON está creciendo rápidamente en toda la industria, debido a que e
 * JSON vs XML. (2014, 19 julio). Oscar Blancarte - Software Architecture. Recuperado 20 de octubre de 2021, de <https://www.oscarblancarteblog.com/2014/07/18/json-vs-xml/>  
 * Gutierrrez, A. (2018, 20 septiembre). XML vs JSON Servicio Web: Cuál es la mejor opción? Arnold Gutierrez. Recuperado 20 de octubre de 2021, de <https://www.arnoldgutierrez.com/xml-vs-json-servicio-web-cual-ellos-mejor-opcion/>  
 * Barrera, A. (2019, 10 noviembre). JSON: ¿Qué es y para qué sirve? NextU LATAM. Recuperado 20 de octubre de 2021, de <https://www.nextu.com/blog/que-es-json/#:%7E:text=JSON%2C%20cuyo%20nombre%20corresponde%20a%20las%20siglas%20JavaScript,simple%20de%20interpretar%20y%20generar%20para%20las%20m%C3%A1quinas.>
+
 
 
 
