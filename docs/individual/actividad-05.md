@@ -8,6 +8,7 @@ A continuación, se dará información detallada de cada una ya que es indispens
 ### **INICIOS**  
 A principios de los años 90 surgió el problema de que las máquinas pudieran entenderse entre sí. Utilizaban diferentes sistemas operativos y sus programas estaban escritos en diferentes lenguajes de programación.  
 Una de las soluciones fue crear el estándar **XML** y más tarde **JSON**, para a través de ellos poder intercambiar información entre las máquinas independientemente del sistema operativo o del lenguaje de programación con el que estuviera hecho el software.  
+  
 ## **XML**  
 
 ### **Características** 
@@ -38,6 +39,7 @@ El uso de JSON está creciendo rápidamente en toda la industria, debido a que e
  
 
 ## **Usos**  
+
 
 ## **TABLA COMPARATIVA**  
 | **JSON** | **XML**|
