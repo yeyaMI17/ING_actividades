@@ -46,9 +46,8 @@ Con este lenguaje, sus registros logran estar disponibles para todo tipo de apar
 |Está diseñado para ser utilizado en cualquier lenguaje o alfabeto.| Complejidad de analizador.|
 |Su análisis sintáctico es fácil debido a las estrictas reglas que rigen la composición de un documento.| Un error en cualquier parte del formato puede hacer que todo el documento sea inválido.|
 |Tiene soporte a cualquier tipo de datos.|
-|Se pueden definir estructuras complejas y reutilizables.|
+|Se pueden definir estructuras complejas y reutilizables.|  
 
-## **EJEMPLOS XML** 
 ## **JSON** 
 **JSON**, cuyo nombre corresponde a las siglas **JavaScript Object Notation** o Notación de Objetos de **JavaScript**, es un formato ligero de intercambio de datos, que resulta sencillo de leer y escribir para los programadores y simple de interpretar y generar para las máquinas.  
 JSON es un formato de texto completamente independiente de lenguaje, pero utiliza convenciones que son ampliamente conocidos por los programadores, entre ellos:
@@ -90,7 +89,9 @@ Recientemente Twitter migró de XML a JSON. Google Web Toolkit también trabaja 
 |Velocidad de procesamiento alta.|
 |Puede ser entendido de forma nativa por los analizadores de JavaScript.|  
 
-## **EJEMPLOS JSON**      
+## **EJEMPLOS JSON Y XML** 
+Presiona la imagen para ver algunos ejemplos.  
+[![IMAGEN](/archivos/individual/act5/EJEMPLOS.png)](http://127.0.0.1:8001/individual/ejemplo5)     
 ## **SIMILITUDES**
 * Se pueden utilizar para describir datos y compartir datos.
 * Ambos admiten cambios de plataforma.
