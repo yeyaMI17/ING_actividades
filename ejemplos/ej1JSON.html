@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8"> 
+      <title> EJEMPLO 1 JSON</title>
+   </head>
+   <body bgcolor="pink">
+      <section id="tests">
+         <center>
+            <h1> CONTACTOS </h1>
+         </center>
+         <div id="content">       
+         </div>
+      </section>
+      <script type="text/javascript">
+         var objetoJSON;
+         objetoJSON = 
+        {        
+        "name":"María Chávez",
+        "age": 19,
+        "isActive": true,
+        "Address":"Colinas de San José",
+        "Phone": "5533989098",
+        "render": function(){
+         document.getElementById('content').innerHTML ="<b>Nombre:</b>"+ objetoJSON.name 
+        + "<br><b>EDAD:</b> " + objetoJSON.age + "<br><b>ACTIVO:</b> " +objetoJSON.isActive
+        + "<br><b>Dirección:</b> "+ objetoJSON.Address+ "<br><b>Teléfono:</b> "+objetoJSON.Phone;}} ;
+        objetoJSON.render();
+      </script>
+   </body>
+</html>
